@@ -12,7 +12,7 @@ const DoctorDetails = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Dr. Matthew Wilson"
+        pageTitle="Dr. Mathew Wilson"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Dr. Mathew Wilson"
@@ -26,7 +26,7 @@ const DoctorDetails = () => {
           <div className="row">
             <div className="col-lg-5">
               <div className="doctor-details-item doctor-details-left">
-                <img src="/images/doctors/matthew.jpg" alt="Doctor" />
+                <img src="/images/doctors/.jpg" alt="Doctor" />
 
                 <div className="doctor-details-contact">
                   <h3>Contact info</h3>
@@ -58,7 +58,7 @@ const DoctorDetails = () => {
               <div className="doctor-details-item">
                 <div className="doctor-details-right">
                   <div className="doctor-details-biography">
-                    <h3>Dr. Matthew Wilson</h3>
+                    <h3>Dr. Mathew Wilson</h3>
                     {/* <p>MBBS in Neurology, PHD in Neurosurgeon</p> */}
                     {/* <p>
                       Sports Medicine, Children’s Health, Chronic Disease
